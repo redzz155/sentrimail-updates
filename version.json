@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "latest_version": "2.3.2",
+  "latest_version": "2.3.3",
   "ruleset_version": "2.3",
   "released": "2026-11-06",
-  "notes": "Removes the optional processing-time log and deletes any timings it stored. Detection is unchanged.",
+  "notes": "Clearer popup title: SentriMail is now the main heading. Detection is unchanged.",
   "instructions_url": "https://github.com/redzz155/sentrimail-updates#how-to-update"
 }
