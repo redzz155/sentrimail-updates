@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "latest_version": "2.3.0",
+  "latest_version": "2.3.1",
   "ruleset_version": "2.3",
   "released": "2026-11-06",
-  "notes": "Ruleset v2.3: fewer phrases are treated as email footers, so cues in sentences like 'By clicking the link below...' are no longer missed.",
+  "notes": "Adds an optional processing-time log for test sessions (off by default; stores timings only, no email content).",
   "instructions_url": "https://github.com/redzz155/sentrimail-updates#how-to-update"
 }
