@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "latest_version": "2.3.3",
-  "ruleset_version": "2.3",
-  "released": "2026-11-06",
-  "notes": "Clearer popup title: SentriMail is now the main heading. Detection is unchanged.",
+  "latest_version": "2.4.0",
+  "ruleset_version": "2.4",
+  "released": "2026-11-13",
+  "notes": "Ruleset v2.4: the Fear cue no longer flags general security advice such as 'reducing the risk of unauthorized access'. Real security warnings are still flagged.",
   "instructions_url": "https://github.com/redzz155/sentrimail-updates#how-to-update"
 }
