@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "latest_version": "2.4.2",
+  "latest_version": "2.4.3",
   "ruleset_version": "2.4",
   "released": "2026-11-13",
-  "notes": "Fixes the Details/Hide button in the email banner and the hard-to-read sensitivity menu. Detection is unchanged.",
+  "notes": "Better Yahoo Mail support (one result per email), a message when no email is open, a loading indicator while an email is checked, and the banner's x now shrinks it to the small notice. Detection is unchanged.",
   "instructions_url": "https://github.com/redzz155/sentrimail-updates#how-to-update"
 }
